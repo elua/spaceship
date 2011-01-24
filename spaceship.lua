@@ -11,7 +11,7 @@
 --   Teo Benjamin
 --
 --
--- Initial Version by Téo Benjamin, Aug 2009
+-- Initial Version by TÃ©o Benjamin, Aug 2009
 --
 -------------------------------------------------------------------------------
 
